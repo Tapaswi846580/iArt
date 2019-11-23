@@ -28,7 +28,7 @@ This will apply the colors to a grayscale or black and white image
 </table>
 
 ### Getting Started
-1. Download or clone [iArt-Service](https://github.com/Tapaswi846580/iArt-Service) repository for image processing. (read the [description](https://github.com/Tapaswi846580/iArt-Service/blob/master/README.md) for the installation and configuration of the web the web service)
+1. Download or clone [iArt-Service](https://github.com/Tapaswi846580/iArt-Service) repository for backend image processing. (read the [description](https://github.com/Tapaswi846580/iArt-Service/blob/master/README.md) for the installation and configuration of the web the web service)
 2. Download or clone this project in Xcode
 3. Open CustomCameraApp.xcworkspace from the project
 4. Apply the following change
