@@ -33,7 +33,7 @@ This will apply the colors to a grayscale or black and white image
 3. Open CustomCameraApp.xcworkspace from the project
 4. Apply the following change
 
-Change the url in the line 233 to the url on which the backend web service is running on
+Change the url in the line 233 of PreviewController.swift file to the url on which the backend web service is running on
 
 Change 
 ```swift
