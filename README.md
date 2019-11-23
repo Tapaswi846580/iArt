@@ -86,8 +86,9 @@ let url = "http://<your ip>:5000/tapaswi/\(listOfImage[indexPath.row])"
 
 
 ### References 
-[Hamster image](https://www.instagram.com/p/B5GLVs1otyA/?utm_source=ig_web_copy_link)
-
-Image courtsey: [BBC Earth](https://www.instagram.com/bbcearth/)
-
-Photographer: [Julian Rad](https://www.instagram.com/julianradwildlife/)
+- [Hamster image](https://www.instagram.com/p/B5GLVs1otyA/?utm_source=ig_web_copy_link) Image courtsey: [BBC Earth](https://www.instagram.com/bbcearth/) Photographer: [Julian Rad](https://www.instagram.com/julianradwildlife/)
+- [Wave style](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa): Painting created by [Katsushika Hokusai](https://artsandculture.google.com/entity/m0bwf4)
+- [Rain style](https://afremov.com/images/product/1125%20%20%20%2030x30%20%20RAIN%20PRINCESS.jpg): Painting created by [Leonid Afremov](https://afremov.com/mysterious-rain-princess.html)
+- [Muse style](https://www.flickr.com/photos/peter_withers/24516172651): Painting created by [Pablo Picasso](https://en.wikipedia.org/wiki/Pablo_Picasso)
+- [Scream style](https://www.edvardmunch.org/the-scream.jsp): Painting created by [Edvard Munch](https://en.wikipedia.org/wiki/Edvard_Munch)
+- [Udine style](https://www.wikiart.org/en/francis-picabia/udnie-young-american-girl-1913): Painting created by [Francis_Picabia](https://en.wikipedia.org/wiki/Francis_Picabia)
