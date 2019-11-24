@@ -67,12 +67,17 @@ let url = "http://<your ip>:5000/tapaswi/\(listOfImage[indexPath.row])"
 </table>
 
 
-#### Coloring grayscale or black and white image
+#### Adding colors in grayscale or black and white image
 <table>
   <th>Grayscale image</th><th>Colored image</th>
   <tr>
-    <td><img src="https://github.com/Tapaswi846580/iArt/blob/master/Images/Colorised/lion.JPG"></td>
-    <td><img src="https://github.com/Tapaswi846580/iArt/blob/master/Images/Colorised/lion_styled.JPG"></td>
+    <td align="center"><img src="https://github.com/Tapaswi846580/iArt/blob/master/Images/Colorised/lion.JPG"></td>
+    <td align="center"><img src="https://github.com/Tapaswi846580/iArt/blob/master/Images/Colorised/lion_styled.JPG"></td>
+  </tr>
+  <th>Grayscale image</th><th>Colored image</th>
+  <tr>
+    <td align="center"><img src="https://github.com/Tapaswi846580/iArt/blob/master/Images/IMG-4645.JPG"></td>
+    <td align="center"><img src="https://github.com/Tapaswi846580/iArt/blob/master/Images/IMG-4644.JPG"></td>
   </tr>
 </table>
 
